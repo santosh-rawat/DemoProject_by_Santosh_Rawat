@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">DemoProject_by_Santosh_Rawat</string>
+    <string name="name_text"> New to Kotlin programming language</string>
+    <string name="bio_text">
+I am Santosh Rawat.
+\n This is my first Kotlin Project.
+\n I am New to Kotlin programming language and want to build Android apps in Kotlin.
+  \n This Project is Using  following concepts:
+    \n    Android Kotlin Fundamentals
+      \n  Layout Implementation
+        \n Navigation from one screen to another
+        \n Activity and fragment lifecycles
+        \n Working with Fragment
+
+    \n Due to some space issue in my system, i was finding difficulty in implementing and executing the code.
+\n I tried my best to do.
+
+\n\n Kindly accept it. \n\n
+</string>
+    <string name="username">Enter UserName</string>
+    <string name="done">Done</string>
+    <string name="AI_Details">Know about Technology</string>
+    <string name="AI_Details1">Know about Language</string>
+    <string name="AI">Artificial Inteligence</string>
+    <string name="DataScience">Data Science</string>
+    <string name="MachineLearning"> MachineLearning </string>
+    <string name="Python">         Python    </string>
+    <string name="Java">         Java     </string>
+    <string name="R">         R     </string>
+    <string name="Exit">         Exit     </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Know About Technologies</string>
+    <string name="second_frame_text">Know Programming Language</string>
+</resources>
